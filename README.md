@@ -1,5 +1,5 @@
-# music_library
-Provides a platform for listeners and artists to engage with music.
+# Music Library
+This is a Music Library constructed with Python and SQL. It provides a platform for both music creators and listeners to sign up, sign in, and engage with music. Musicians have the ability to upload tracks, cooperate with others, identify their biggest fans, and monitor their popular playlists. Audience members have the option to look up songs and playlists, listen to them, gain more knowledge, assemble and control their own playlists, and discover new musicians along with their compositions.
 
 <img width="802" alt="Screen Shot 2024-07-08 at 5 01 49 PM" src="https://github.com/bertina3107/music_library/assets/116847981/9ba13c69-ef16-485a-93c9-ccf0b66363c1">
 
